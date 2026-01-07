@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Vasima0xS/Max-Antivirus/refs/heads/main/icons/antivirus%20max.png" width="50" height="50" alt="Max Antivirus Logo" />
+  <img src="https://raw.githubusercontent.com/Vasima0xS/Max-Antivirus/refs/heads/main/icons/antivirus%20max.png" width="150" height="150" alt="Max Antivirus Logo" />
   
   <h1>🛡️ MAX ANTIVIRUS PROJECT</h1>
   <p><b>Simple Unlocker Utility | Специально для Nedohackers</b></p>
