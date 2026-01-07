@@ -1,59 +1,59 @@
 <div align="center">
-  <h1>👋 Привет, я [Твое Имя]</h1>
-  <p><i>Full-stack разработчик / Дизайнер / Энтузиаст</i></p>
 
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50" width="100%" />
+  <img src="https://img.icons8.com/shield-quality/100/000000/security-checked.png" alt="Max Antivirus Logo" />
+  <h1>🛡️ MAX ANTIVIRUS PROJECT</h1>
+  <p><b>Simple Unlocker Utility | Public Edition</b></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Release-Public-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Target-Nedohackers-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
+  </p>
+
 </div>
 
-<br />
+<hr />
 
-## 🚀 Обо мне
+## 📝 Описание
+Это публичная разработка, созданная специально для сообщества **Nedohackers**. 
+**Simple Unlocker** — мощный инструмент для работы с блокировками. Несмотря на название "Antivirus", проект несет в себе функционал по разблокировке и анализу системных ограничений.
 
+> [!WARNING]
+> Данное ПО предоставляется "как есть" исключительно в ознакомительных целях для участников Nedohackers.
+
+<hr />
+
+## ⚙️ Функционал
 <table>
   <tr>
-    <td width="60%">
-      Привет! Я занимаюсь разработкой современных веб-приложений. 
-      Люблю чистый код и красивые интерфейсы.
-      <ul>
-        <li><b>Локация:</b> Планета Земля</li>
-        <li><b>Стек:</b> React, Node.js, PostgreSQL</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-логин&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-    </td>
+    <td><b>Simple Unlocker</b></td>
+    <td>Снятие ограничений системы в один клик.</td>
+  </tr>
+  <tr>
+    <td><b>System Bypass</b></td>
+    <td>Обход стандартных проверок безопасности.</td>
+  </tr>
+  <tr>
+    <td><b>Public Access</b></td>
+    <td>Код полностью открыт для изучения.</td>
   </tr>
 </table>
 
 <hr />
 
 ## 🛠 Технологии
-
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,asm,powershell,git" />
 </p>
 
 <hr />
 
-## 📁 Мои проекты
+## 📥 Установка и использование
 
 <details>
-  <summary><b>Нажми, чтобы раскрыть список проектов 👇</b></summary>
+  <summary><b>Развернуть инструкцию по запуску 🔓</b></summary>
   <br />
-  
-  1. **Project One** — описание крутого проекта на HTML/CSS.
-  2. **Project Two** — сложное приложение на React.
-</details>
 
-<br />
-
-<div align="center">
-  <a href="https://linkedin.com/in/ваш-профиль">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/ваш-логин">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
+  1. Склонируйте репозиторий:
+  ```bash
+  git clone [https://github.com/ваш-логин/simple-unlocker.git](https://github.com/ваш-логин/simple-unlocker.git)
